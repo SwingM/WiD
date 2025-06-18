@@ -5,5 +5,5 @@
 The code will be sorted and uploaded soon.
 
 <div align="center">
-    <img width="100%" alt="VidMotion overview" src="assets/main.png"/>
+    <img width="100%" alt="overview" src="schematric_main_correct.pdf"/>
 </div>
